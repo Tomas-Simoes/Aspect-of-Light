@@ -15,13 +15,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is our final school project made in Unity. 
-It's a top-down combat and history based game, with a unique experience for each player, since the map is randomly created each gameplay and the history is also shown to each player randomly at different stages of the game. 
+This is our final school project done in Unity.
+It is a top-down combat and story game, with a unique experience for each player, as the map is randomly created each gameplay and the story is also shown to each player randomly in different stages of the game.
 
 Main Objectives:
-* Fun, challenging and responsible combat, with several enemies, each with different habilities and behaviors.
-* Complex story line for the player to explore along the gameplay.
-* You should implement DRY principles to the rest of your life :smile:
+* Fun, challenging, and responsive combat with multiple enemies, each with different abilities and behaviors.
+* Complex storyline for the player to explore throughout the game.
+* Different scenarios with innovative mechanics
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

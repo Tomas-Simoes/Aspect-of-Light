@@ -39,6 +39,7 @@ Design:
 ## Contact
 
 Project Link: [Powerless](https://github.com/Tomas-Simoes/Powerless).
+</br>
 My Discord: simoes#2036
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

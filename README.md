@@ -1,4 +1,4 @@
-*disclaimer: the project it's still on a really early stage of development*
+*disclaimer: the project it's still on a really really early stage of development*
 
 <!-- TABLE OF CONTENTS -->
 <details>

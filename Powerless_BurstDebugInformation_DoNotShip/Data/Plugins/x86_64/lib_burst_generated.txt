@@ -1,4 +1,4 @@
-Library: E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+Library: C:\Users\aeal\Documents\GitHub\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-14
 --target=X64_SSE2
@@ -135,9 +135,6 @@ Library: E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\
 --compilation-defines=MODULE_PHYSICS_2D_EXISTS
 --compilation-defines=MODULE_PARTICLE_SYSTEM_EXISTS
 --compilation-defines=ENABLE_ANIMATION_BURST
---compilation-defines=ENABLE_SPRITESHAPE_BURST
---compilation-defines=TIMELINE_FRAMEACCURATE
---compilation-defines=ENABLE_URP
 --compilation-defines=CINEMACHINE_TIMELINE
 --compilation-defines=CINEMACHINE_PHYSICS_2D
 --compilation-defines=CINEMACHINE_PHYSICS
@@ -147,10 +144,13 @@ Library: E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\
 --compilation-defines=CINEMACHINE_UNITY_INPUTSYSTEM
 --compilation-defines=CINEMACHINE_UNITY_ANIMATION
 --compilation-defines=CINEMACHINE_UNITY_IMGUI
+--compilation-defines=ENABLE_SPRITESHAPE_BURST
+--compilation-defines=TIMELINE_FRAMEACCURATE
+--compilation-defines=ENABLE_URP
 --linker-options=PdbAltPath="Powerless_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\Games Projects\Powerless-Repository\Powerless\Temp\Burst
---output=E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=C:\Users\aeal\Documents\GitHub\Powerless-Repository\Powerless\Temp\Burst
+--output=C:\Users\aeal\Documents\GitHub\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 
@@ -305,9 +305,6 @@ Library: E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\
 --compilation-defines=MODULE_PHYSICS_2D_EXISTS
 --compilation-defines=MODULE_PARTICLE_SYSTEM_EXISTS
 --compilation-defines=ENABLE_ANIMATION_BURST
---compilation-defines=ENABLE_SPRITESHAPE_BURST
---compilation-defines=TIMELINE_FRAMEACCURATE
---compilation-defines=ENABLE_URP
 --compilation-defines=CINEMACHINE_TIMELINE
 --compilation-defines=CINEMACHINE_PHYSICS_2D
 --compilation-defines=CINEMACHINE_PHYSICS
@@ -317,10 +314,13 @@ Library: E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\
 --compilation-defines=CINEMACHINE_UNITY_INPUTSYSTEM
 --compilation-defines=CINEMACHINE_UNITY_ANIMATION
 --compilation-defines=CINEMACHINE_UNITY_IMGUI
+--compilation-defines=ENABLE_SPRITESHAPE_BURST
+--compilation-defines=TIMELINE_FRAMEACCURATE
+--compilation-defines=ENABLE_URP
 --linker-options=PdbAltPath="Powerless_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\Games Projects\Powerless-Repository\Powerless\Temp\Burst
---output=E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=C:\Users\aeal\Documents\GitHub\Powerless-Repository\Powerless\Temp\Burst
+--output=C:\Users\aeal\Documents\GitHub\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 

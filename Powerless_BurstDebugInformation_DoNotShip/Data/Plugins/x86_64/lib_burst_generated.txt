@@ -1,4 +1,4 @@
-Library: C:\Users\12prog\Desktop\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+Library: E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-14
 --target=X64_SSE2
@@ -149,8 +149,8 @@ Library: C:\Users\12prog\Desktop\Powerless-Repository\Powerless\Temp\StagingArea
 --compilation-defines=ENABLE_URP
 --linker-options=PdbAltPath="Powerless_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\12prog\Desktop\Powerless-Repository\Powerless\Temp\Burst
---output=C:\Users\12prog\Desktop\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=E:\Games Projects\Powerless-Repository\Powerless\Temp\Burst
+--output=E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 
@@ -319,8 +319,8 @@ Library: C:\Users\12prog\Desktop\Powerless-Repository\Powerless\Temp\StagingArea
 --compilation-defines=ENABLE_URP
 --linker-options=PdbAltPath="Powerless_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\12prog\Desktop\Powerless-Repository\Powerless\Temp\Burst
---output=C:\Users\12prog\Desktop\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=E:\Games Projects\Powerless-Repository\Powerless\Temp\Burst
+--output=E:\Games Projects\Powerless-Repository\Powerless\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 

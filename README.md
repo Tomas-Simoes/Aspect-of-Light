@@ -38,7 +38,7 @@ Design:
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [Powerless](https://github.com/Tomas-Simoes/Powerless).
+Project Link: [Aspect of Light](https://github.com/Tomas-Simoes/Powerless).
 </br>
 My Discord: simoes#2036
 

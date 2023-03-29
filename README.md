@@ -25,6 +25,17 @@ Main Objectives:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTROLS -->
+##Controls
+The game doesn't have any tutorial yet, so for now we'll put the game controls here.
+
+* WASD to move
+* Arrows to move on the UI
+* E to dash
+* Q to interact (to talk to the NPCs for example)
+* Enter to select (options in the menus for example)
+* In the bottom right from the screen, there is an "Inventory" button. There you can choose to equip some abilities and use them. The keys to use them are: 1, 2 and 3. To equip any ability, you should press the slot where do you want to equip the ability and then press the ability to equip
+
 <!-- OUR TEAM -->
 ## Our Team
 

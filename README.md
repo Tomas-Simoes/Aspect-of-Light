@@ -5,6 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#controls">Controls</a></li>
     <li><a href="#our-team">Our Team</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -26,7 +27,7 @@ Main Objectives:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTROLS -->
-##Controls
+## Controls
 The game doesn't have any tutorial yet, so for now we'll put the game controls here.
 
 * WASD to move

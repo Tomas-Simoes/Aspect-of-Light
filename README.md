@@ -11,8 +11,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -23,8 +21,6 @@ Main Objectives:
 * Fun, challenging, and responsive combat with multiple enemies, each with different abilities and behaviors.
 * Complex storyline for the player to explore throughout the game.
 * Different scenarios with innovative mechanics
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTROLS -->
 ## Controls
@@ -45,13 +41,16 @@ Programmers:
 * [Tomás Gonçalves](https://github.com/ThatPlayerSniper)
 
 Design:
-* João Nunes
+* João Nunes (*pixel art*)
+* [Diogo Azevedo](https://www.behance.net/diogoazevedo11) (*graphic design*)
 
 <!-- CONTACT -->
 ## Contact
 
 Project Link: [Aspect of Light](https://github.com/Tomas-Simoes/Powerless).
 </br>
-My Discord: simoes#2036
+Our discord: (https://discord.gg/RT7qZ8eBqF)
+
+Any doubt, don't hesitate on asking!! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -1,4 +1,4 @@
-Library: E:\Games Projects\AspectOfLight-Repository\AspectOfLight\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+Library: E:\Projects\AspectOfLight-Repository\AspectOfLight\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-14
 --target=AVX2
@@ -149,8 +149,8 @@ Library: E:\Games Projects\AspectOfLight-Repository\AspectOfLight\Temp\StagingAr
 --compilation-defines=ENABLE_URP
 --linker-options=PdbAltPath="Aspect of Light_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\Games Projects\AspectOfLight-Repository\AspectOfLight\Temp\Burst
---output=E:\Games Projects\AspectOfLight-Repository\AspectOfLight\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=E:\Projects\AspectOfLight-Repository\AspectOfLight\Temp\Burst
+--output=E:\Projects\AspectOfLight-Repository\AspectOfLight\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 
@@ -319,8 +319,8 @@ Library: E:\Games Projects\AspectOfLight-Repository\AspectOfLight\Temp\StagingAr
 --compilation-defines=ENABLE_URP
 --linker-options=PdbAltPath="Aspect of Light_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\Games Projects\AspectOfLight-Repository\AspectOfLight\Temp\Burst
---output=E:\Games Projects\AspectOfLight-Repository\AspectOfLight\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=E:\Projects\AspectOfLight-Repository\AspectOfLight\Temp\Burst
+--output=E:\Projects\AspectOfLight-Repository\AspectOfLight\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 

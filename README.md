@@ -1,4 +1,4 @@
-*disclaimer: the project it's still on a really really early stage of development*
+*Please note that the project is still in a very early stage of development, and as such, may undergo significant changes in the future. It is important to keep this in mind when considering any information or materials related to the project, as they may not accurately represent the final product. Thank you for your understanding and support as we work to bring this project up.*
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -14,24 +14,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is our final school project done in Unity.
-It is a top-down combat and story game, with a unique experience for each player, as the map is randomly created each gameplay and the story is also shown to each player randomly in different stages of the game.
+My team and I are firmly dedicated to developing a video game that expertly blends the elements of mystery and exploration with the challenging gameplay mechanics that are inherent in the widely popular 2D Souls-like genre. 
 
-Main Objectives:
-* Fun, challenging, and responsive combat with multiple enemies, each with different abilities and behaviors.
-* Complex storyline for the player to explore throughout the game.
-* Different scenarios with innovative mechanics
+Our game, "Aspect of Light", is currently under development, and although still in its early stages, we remain resolute in our unwavering commitment to providing our players with an exceptional gaming experience.
 
 <!-- CONTROLS -->
 ## Controls
-The game doesn't have any tutorial yet, so for now we'll put the game controls here.
+The video game currently lacks a tutorial; therefore, we will provide the game controls below for the time being.
 
 * WASD to move
 * Arrows to move on the UI
 * E to dash
 * Q to interact (to talk to the NPCs for example)
-* Enter to select (options in the menus for example)
-* In the bottom right from the screen, there is an "Inventory" button. There you can choose to equip some abilities and use them. The keys to use them are: 1, 2 and 3. To equip any ability, you should press the slot where do you want to equip the ability and then press the ability to equip
+* ENTER to select
 
 <!-- OUR TEAM -->
 ## Our Team

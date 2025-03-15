@@ -1,10 +1,10 @@
 # Aspect of Light
 
-*Note: This project is in early development and is currently discontinued.*
+*Note: This project is in early development and is already discontinued.*
 
 ## Introduction
 
-*Aspect of Light* is a Souls-like game developed as the final project of my 12º year. Although the game is in its early development stages and has been discontinued, it offers a glimpse into an challeging gameplay experience.
+*Aspect of Light* is a souls-like game developed as the final project of my 12º year. Although the game is in its early development stages and has been discontinued, it offers a glimpse into an challeging gameplay experience.
 
 ## Features
 
@@ -17,7 +17,7 @@
 
 To experience *Aspect of Light*, follow these steps:
 
-1. **Clone the Repository:**![image](https://github.com/user-attachments/assets/80b05084-8d87-4a60-963a-0c9bb8f99360)
+1. **Clone the Repository:**
 
    Clone the repository or download it as a ZIP file from the [GitHub page](https://github.com/Tomas-Simoes/Aspect-of-Light).
    
@@ -36,23 +36,31 @@ To experience *Aspect of Light*, follow these steps:
 
 ## Gameplay
 
+You can navigate through the menu with your arrow keys, and select with E.
+The boss fight is at the right side of the map.
+
 ### Boss Fight
 
 Experience a meticulously designed boss battle that challenges your combat prowess and strategy.
 
+<img src="https://github.com/user-attachments/assets/aadf5e0d-2420-437a-8f03-4c342bdc9446" width="700">
+
 ### Game Areas
 
-Traverse through two uniquely crafted areas, each offering distinct environments and obstacles.
+Traverse through two uniquely crafted areas, each offering distinct environments.
 
-![image](https://github.com/user-attachments/assets/edf73da8-7e06-4120-9235-bb82314ba052)
+<img src="https://github.com/user-attachments/assets/d416d8e2-90f0-4615-8be8-84b26a921669" width="700">
 
 ### NPC Dialogue System
 
 Engage with various non-player characters to uncover lore, receive quests, and immerse yourself deeper into the game's narrative.
 
+<img src="https://github.com/user-attachments/assets/edf73da8-7e06-4120-9235-bb82314ba052" width="700">
+
 ### Ability Tree System
 
 Progress through the game by unlocking and upgrading abilities, allowing for a personalized gameplay experience.
 
+<img src="https://github.com/user-attachments/assets/30605ee9-b932-46f6-a7e3-dddd43de68be" width="700">
 
-*This project is no longer under active development.*
+
